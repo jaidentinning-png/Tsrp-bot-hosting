@@ -1,0 +1,1 @@
+Set env vars then deploy. Build runs automatically via postinstall.
